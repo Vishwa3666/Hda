@@ -1,2 +1,2 @@
 # Hda
-Clinical text classification using nlp techniques
+Clinical text classification using machine learning and nlp techniques
